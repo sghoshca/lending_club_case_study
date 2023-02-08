@@ -6,6 +6,7 @@ data/*
 reference/*
 *.csv
 *.pptx
+*.txt
 
 # C extensions
 *.so
